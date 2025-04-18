@@ -19,48 +19,53 @@ A simple feedback form built with React and Vite. Users can submit their name, e
 ### Installation
 
 1. Clone the repository:
-   ```sh
-   git clone <repository-url>
-   cd Create-Feedback-Form-for-Survey/feedback_form
+    ```sh
+    git clone <repository-url>
+    cd Create-Feedback-Form-for-Survey/feedback_form
+    ```
 
-2. Install dependencies
+2. Install dependencies:
     ```sh
     npm install
+    ```
 
 ### Running the App
 
 Start the development server:
-    ```sh
-    npm run dev
+```sh
+npm run dev
+```
 
 Open http://localhost:5173 in your browser.
 
 Building for Production:
-    ```sh
-    npm run build
+```sh
+npm run build
+```
 
 Preview Production Build:
-    ```sh
-    npm run preview
+```sh
+npm run preview
+```
 
 ### Project Structure
 
+```
 feedback_form/
 ├── src/
 │   ├── Components/
-│   │   └── [FeedbackForm.jsx](http://_vscodecontentref_/0)
-│   │   └── [FeedbackForm.css](http://_vscodecontentref_/1)
-│   ├── [App.jsx](http://_vscodecontentref_/2)
-│   ├── [App.css](http://_vscodecontentref_/3)
-│   ├── [main.jsx](http://_vscodecontentref_/4)
-│   └── [index.css](http://_vscodecontentref_/5)
-├── [index.html](http://_vscodecontentref_/6)
-├── [package.json](http://_vscodecontentref_/7)
-├── [vite.config.js](http://_vscodecontentref_/8)
-└── [README.md](http://_vscodecontentref_/9)
+│   │   └── FeedbackForm.jsx
+│   │   └── FeedbackForm.css
+│   ├── App.jsx
+│   ├── App.css
+│   ├── main.jsx
+│   └── index.css
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+```
 
 ## License
 
 Apache 2.0
-
-
