@@ -24,22 +24,22 @@ A simple feedback form built with React and Vite. Users can submit their name, e
    cd Create-Feedback-Form-for-Survey/feedback_form
 
 2. Install dependencies
-    '''sh
+    ```sh
     npm install
 
 ### Running the App
 
 Start the development server:
-    '''sh
+    ```sh
     npm run dev
 Open http://localhost:5173 in your browser.
 
 Building for Production:
-    '''sh
+    ```sh
     npm run build
 
 Preview Production Build:
-    '''sh
+    ```sh
     npm run preview
 
 ### Project Structure
@@ -58,7 +58,7 @@ feedback_form/
 ├── [vite.config.js](http://_vscodecontentref_/8)
 └── [README.md](http://_vscodecontentref_/9)
 
-### License
+## License
 
 Apache 2.0
 
